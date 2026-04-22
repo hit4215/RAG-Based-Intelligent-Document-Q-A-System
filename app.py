@@ -11,7 +11,6 @@ from langchain_mistralai import ChatMistralAI
 from langchain_core.prompts import ChatPromptTemplate
 
 
-load_dotenv()
 
 st.set_page_config(page_title="RAG Book Assistant")
 
